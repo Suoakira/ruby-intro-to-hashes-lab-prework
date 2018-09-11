@@ -77,7 +77,7 @@ def monopoly_with_fourth_tier
         },
         :b_and_o_railroad =>
         {
-        
+          
         },
         :shortline =>
         {
